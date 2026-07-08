@@ -6,6 +6,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0268-missing-number) |
 | [2942-find-words-containing-character](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2942-find-words-containing-character) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,4 +40,12 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0917-reverse-only-letters](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0917-reverse-only-letters) |
 | [2942-find-words-containing-character](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2942-find-words-containing-character) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/3898-find-the-degree-of-each-vertex) |
+## Matrix
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->

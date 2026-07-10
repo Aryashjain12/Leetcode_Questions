@@ -4,7 +4,7 @@ class Solution {
         for(int i = 0 ;  i<words.length ; i++){
             if(words[i].length()<pref.length()){
                 continue;
-            }else if(words[i].substring(0,pref.length()).equals(pref)){
+            }else if(words[i].startsWith(pref)){
                 ans++;
             }
         }

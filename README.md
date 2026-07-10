@@ -13,6 +13,7 @@
 | [1816-truncate-sentence](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1816-truncate-sentence) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2942-find-words-containing-character](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2942-find-words-containing-character) |
+| [3248-snake-in-matrix](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/3248-snake-in-matrix) |
 | [3467-transform-array-by-parity](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/3467-transform-array-by-parity) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
@@ -54,6 +55,7 @@
 | [0917-reverse-only-letters](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0917-reverse-only-letters) |
 | [1816-truncate-sentence](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1816-truncate-sentence) |
 | [2942-find-words-containing-character](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2942-find-words-containing-character) |
+| [3248-snake-in-matrix](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/3248-snake-in-matrix) |
 ## Graph Theory
 |  |
 | ------- |
@@ -78,6 +80,7 @@
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0867-transpose-matrix) |
+| [3248-snake-in-matrix](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/3248-snake-in-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |

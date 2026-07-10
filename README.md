@@ -14,6 +14,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2942-find-words-containing-character](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2942-find-words-containing-character) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3248-snake-in-matrix](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/3248-snake-in-matrix) |
 | [3467-transform-array-by-parity](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/3467-transform-array-by-parity) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -21,6 +22,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0268-missing-number) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Math
 |  |
 | ------- |

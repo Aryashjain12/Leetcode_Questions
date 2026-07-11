@@ -21,12 +21,14 @@
 | [2956-find-common-elements-between-two-arrays](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3248-snake-in-matrix](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/3248-snake-in-matrix) |
 | [3467-transform-array-by-parity](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/3467-transform-array-by-parity) |
+| [3731-find-missing-elements](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/3731-find-missing-elements) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0268-missing-number) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2956-find-common-elements-between-two-arrays) |
+| [3731-find-missing-elements](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -48,6 +50,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0268-missing-number) |
 | [3467-transform-array-by-parity](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/3467-transform-array-by-parity) |
+| [3731-find-missing-elements](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |

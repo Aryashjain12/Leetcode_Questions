@@ -19,6 +19,7 @@
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2942-find-words-containing-character](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2942-find-words-containing-character) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -31,6 +32,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0268-missing-number) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3731-find-missing-elements](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/3731-find-missing-elements) |
 ## Math
@@ -74,6 +76,7 @@
 | [1816-truncate-sentence](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1816-truncate-sentence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2942-find-words-containing-character](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2942-find-words-containing-character) |
 | [3248-snake-in-matrix](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/3248-snake-in-matrix) |
@@ -104,6 +107,7 @@
 | [0867-transpose-matrix](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0867-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3248-snake-in-matrix](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/3248-snake-in-matrix) |
 ## Dynamic Programming
 |  |

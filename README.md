@@ -41,6 +41,7 @@
 | [0007-reverse-integer](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0268-missing-number) |
+| [1323-maximum-69-number](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1323-maximum-69-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -125,4 +126,8 @@
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Greedy
+|  |
+| ------- |
+| [1323-maximum-69-number](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1323-maximum-69-number) |
 <!---LeetCode Topics End-->

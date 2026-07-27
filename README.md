@@ -11,6 +11,7 @@
 | [0867-transpose-matrix](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1389-create-target-array-in-the-given-order) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1572-matrix-diagonal-sum](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1572-matrix-diagonal-sum) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -61,6 +62,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0268-missing-number) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3467-transform-array-by-parity](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/3467-transform-array-by-parity) |
 | [3731-find-missing-elements](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -137,4 +139,8 @@
 |  |
 | ------- |
 | [1323-maximum-69-number](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1323-maximum-69-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->

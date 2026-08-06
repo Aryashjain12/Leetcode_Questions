@@ -52,6 +52,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0048-rotate-image) |
+| [0172-factorial-trailing-zeroes](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0172-factorial-trailing-zeroes) |
 | [0268-missing-number](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0268-missing-number) |
 | [1323-maximum-69-number](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1323-maximum-69-number) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |

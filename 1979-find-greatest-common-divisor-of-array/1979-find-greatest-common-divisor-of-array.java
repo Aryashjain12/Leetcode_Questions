@@ -8,13 +8,11 @@ class Solution {
         }
         if(max%min==0){
             return min;
-        }
-        int ans = 0 ;
-        for(int i = 1 ; i<=min/2 ; i++){
-            if(min%i==0  && max%i==0){
-                ans=i;
-            }
-        }
-        return ans;
+        }   
+        return helper(min,max);
+    }
+    public static int helper(int a , int b){
+        if(a==0) return b;
+        return helper(b%a,a);
     }
 }

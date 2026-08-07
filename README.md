@@ -25,6 +25,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2418-sort-the-people](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2418-sort-the-people) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -44,6 +45,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0268-missing-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2418-sort-the-people](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2418-sort-the-people) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -77,6 +79,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0268-missing-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2418-sort-the-people](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2418-sort-the-people) |
 | [3467-transform-array-by-parity](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/3467-transform-array-by-parity) |
 | [3731-find-missing-elements](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -100,6 +103,7 @@
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2418-sort-the-people](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2418-sort-the-people) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2942-find-words-containing-character](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2942-find-words-containing-character) |

@@ -38,6 +38,7 @@
 | [2956-find-common-elements-between-two-arrays](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2965-find-missing-and-repeated-values) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3131-find-the-integer-added-to-array-i](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3248-snake-in-matrix](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/3248-snake-in-matrix) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3467-transform-array-by-parity](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/3467-transform-array-by-parity) |

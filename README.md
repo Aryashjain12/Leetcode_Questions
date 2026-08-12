@@ -44,6 +44,7 @@
 | [3502-minimum-cost-to-reach-every-position](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/3502-minimum-cost-to-reach-every-position) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
 |  |
@@ -68,6 +69,7 @@
 | [2965-find-missing-and-repeated-values](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2965-find-missing-and-repeated-values) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Binary Search
 |  |
 | ------- |

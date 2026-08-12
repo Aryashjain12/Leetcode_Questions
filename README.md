@@ -20,6 +20,7 @@
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1816-truncate-sentence](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1816-truncate-sentence) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -91,6 +92,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0268-missing-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2418-sort-the-people](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2418-sort-the-people) |
 | [3467-transform-array-by-parity](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/3467-transform-array-by-parity) |
@@ -102,6 +104,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0832-flipping-an-image](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0832-flipping-an-image) |
 | [0917-reverse-only-letters](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0917-reverse-only-letters) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -177,6 +180,7 @@
 |  |
 | ------- |
 | [1323-maximum-69-number](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1323-maximum-69-number) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

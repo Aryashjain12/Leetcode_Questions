@@ -12,6 +12,7 @@
 | [0561-array-partition](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0561-array-partition) |
 | [0832-flipping-an-image](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0867-transpose-matrix) |
+| [1051-height-checker](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1051-height-checker) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -97,6 +98,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0561-array-partition) |
+| [1051-height-checker](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -220,4 +222,9 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0561-array-partition) |
+| [1051-height-checker](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->

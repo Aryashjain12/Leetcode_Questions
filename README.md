@@ -13,6 +13,7 @@
 | [0832-flipping-an-image](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0867-transpose-matrix) |
 | [1051-height-checker](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1051-height-checker) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -72,6 +73,7 @@
 | [0048-rotate-image](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0048-rotate-image) |
 | [0172-factorial-trailing-zeroes](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0172-factorial-trailing-zeroes) |
 | [0268-missing-number](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0268-missing-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1323-maximum-69-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2965-find-missing-and-repeated-values) |

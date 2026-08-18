@@ -122,6 +122,7 @@
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0917-reverse-only-letters](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0917-reverse-only-letters) |
@@ -175,6 +176,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0118-pascals-triangle) |
 ## String Matching
 |  |
@@ -229,4 +231,12 @@
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1051-height-checker) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->

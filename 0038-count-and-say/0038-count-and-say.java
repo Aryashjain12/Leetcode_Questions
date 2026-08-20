@@ -1,27 +1,21 @@
 class Solution {
     public String countAndSay(int n) {
-        if(n==1){
-            return  "1";
+        if (n == 1) {
+            return "1";
         }
-        String s = countAndSay(n-1);
-        int i = 0 ; 
-        int j = 0 ;
-        String ans ="";
-        while(j<s.length()){
-            if(s.charAt(i)==s.charAt(j)){
+        String s = countAndSay(n - 1);
+        StringBuilder ans = new StringBuilder();
+        int i = 0;
+        while (i < s.length()) {
+            int j = i;
+            while (j < s.length() && s.charAt(i) == s.charAt(j)) {
                 j++;
-            }else{
-                int freq = j-i;
-                ans+=freq;
-                ans+=s.charAt(i);
-                i=j;
             }
+            int freq = j - i;
+            ans.append(freq);
+            ans.append(s.charAt(i));
+            i = j;
         }
-                int freq = j-i;
-                ans+=freq;
-                ans+=s.charAt(i);
-                i=j;
-
-                return ans;
+        return ans.toString();
     }
 }

@@ -28,6 +28,7 @@
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -63,6 +64,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0268-missing-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2418-sort-the-people](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2418-sort-the-people) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
@@ -164,6 +166,7 @@
 |  |
 | ------- |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/3005-count-elements-with-maximum-frequency) |

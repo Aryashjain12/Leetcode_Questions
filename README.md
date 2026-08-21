@@ -148,6 +148,7 @@
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2942-find-words-containing-character](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2942-find-words-containing-character) |
+| [3110-score-of-a-string](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/3110-score-of-a-string) |
 | [3248-snake-in-matrix](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/3248-snake-in-matrix) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Graph Theory

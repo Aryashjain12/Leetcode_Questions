@@ -1,11 +1,11 @@
 class Solution {
     public int scoreOfString(String s) {
-        int ans= 0 ; 
-        for(int i = 0 ; i<s.length()-1;i++){
-            int a = s.charAt(i);
-            int b = s.charAt(i+1);
-            ans += Math.abs(a-b);
+        int result = 0;
+        char[] array = s.toCharArray();
+        for (int i = 0; i < array.length - 1; i++) {
+            int distance = Math.abs(array[i] - array[i+1]);
+            result += distance;
         }
-        return ans;
+        return result;
     }
 }

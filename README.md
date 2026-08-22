@@ -63,6 +63,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0268-missing-number) |
+| [0771-jewels-and-stones](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0771-jewels-and-stones) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2206-divide-array-into-equal-pairs) |
@@ -136,6 +137,7 @@
 | [0038-count-and-say](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0771-jewels-and-stones](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0771-jewels-and-stones) |
 | [0917-reverse-only-letters](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0917-reverse-only-letters) |
 | [1108-defanging-an-ip-address](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1108-defanging-an-ip-address) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |

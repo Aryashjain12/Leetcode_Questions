@@ -130,6 +130,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [3794-reverse-string-prefix](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/3794-reverse-string-prefix) |
 ## String
 |  |
 | ------- |
@@ -154,6 +155,7 @@
 | [3110-score-of-a-string](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/3110-score-of-a-string) |
 | [3248-snake-in-matrix](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/3248-snake-in-matrix) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3794-reverse-string-prefix](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/3794-reverse-string-prefix) |
 ## Graph Theory
 |  |
 | ------- |

@@ -27,6 +27,7 @@
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -145,6 +146,7 @@
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1816-truncate-sentence](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1816-truncate-sentence) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2185-counting-words-with-a-given-prefix) |

@@ -144,6 +144,7 @@
 | [0917-reverse-only-letters](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0917-reverse-only-letters) |
 | [1108-defanging-an-ip-address](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1108-defanging-an-ip-address) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1678-goal-parser-interpretation](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1816-truncate-sentence](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1816-truncate-sentence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |

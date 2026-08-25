@@ -129,6 +129,7 @@
 | [0832-flipping-an-image](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0832-flipping-an-image) |
 | [0917-reverse-only-letters](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0917-reverse-only-letters) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2000-reverse-prefix-of-word](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -149,6 +150,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1816-truncate-sentence](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1816-truncate-sentence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2000-reverse-prefix-of-word](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -216,6 +218,7 @@
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [2000-reverse-prefix-of-word](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2000-reverse-prefix-of-word) |
 ## Monotonic Stack
 |  |
 | ------- |

@@ -20,6 +20,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1528-shuffle-string](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1528-shuffle-string) |
 | [1572-matrix-diagonal-sum](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1572-matrix-diagonal-sum) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -146,6 +147,7 @@
 | [0771-jewels-and-stones](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0771-jewels-and-stones) |
 | [0917-reverse-only-letters](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0917-reverse-only-letters) |
 | [1108-defanging-an-ip-address](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1108-defanging-an-ip-address) |
+| [1528-shuffle-string](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1684-count-the-number-of-consistent-strings) |

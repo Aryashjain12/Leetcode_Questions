@@ -68,6 +68,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2206-divide-array-into-equal-pairs) |
+| [2325-decode-the-message](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2325-decode-the-message) |
 | [2418-sort-the-people](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2418-sort-the-people) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -154,6 +155,7 @@
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2325-decode-the-message](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2325-decode-the-message) |
 | [2418-sort-the-people](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2418-sort-the-people) |
 | [2678-number-of-senior-citizens](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2678-number-of-senior-citizens) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2744-find-maximum-number-of-string-pairs) |

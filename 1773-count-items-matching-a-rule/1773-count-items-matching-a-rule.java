@@ -6,11 +6,11 @@ class Solution {
                 if(items.get(i).get(0).equals(ruleValue)){
                     ans++;
                 }
-            }if(ruleKey.equals("color")){
+            }else if(ruleKey.equals("color")){
                 if(items.get(i).get(1).equals(ruleValue)){
                     ans++;
                 }
-            }if(ruleKey.equals("name")){
+            }else if(ruleKey.equals("name")){
                 if(items.get(i).get(2).equals(ruleValue)){
                     ans++;
                 }

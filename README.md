@@ -96,6 +96,7 @@
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3894-traffic-signal-color](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/3894-traffic-signal-color) |
 ## Binary Search
 |  |
 | ------- |
@@ -172,6 +173,7 @@
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/3794-reverse-string-prefix) |
+| [3894-traffic-signal-color](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/3894-traffic-signal-color) |
 ## Graph Theory
 |  |
 | ------- |
@@ -212,6 +214,7 @@
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3248-snake-in-matrix](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/3248-snake-in-matrix) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3894-traffic-signal-color](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/3894-traffic-signal-color) |
 ## Dynamic Programming
 |  |
 | ------- |

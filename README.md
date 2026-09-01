@@ -132,6 +132,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0832-flipping-an-image](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0832-flipping-an-image) |
 | [0917-reverse-only-letters](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0917-reverse-only-letters) |
+| [1768-merge-strings-alternately](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1768-merge-strings-alternately) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2000-reverse-prefix-of-word](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -154,6 +155,7 @@
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1768-merge-strings-alternately](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1768-merge-strings-alternately) |
 | [1773-count-items-matching-a-rule](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1816-truncate-sentence) |
 | [1844-replace-all-digits-with-characters](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1844-replace-all-digits-with-characters) |

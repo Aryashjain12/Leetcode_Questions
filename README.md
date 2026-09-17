@@ -7,6 +7,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0118-pascals-triangle) |
 | [0268-missing-number](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0561-array-partition) |
@@ -205,6 +206,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0053-maximum-subarray) |
 ## Simulation
 |  |
 | ------- |
@@ -222,6 +224,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0118-pascals-triangle) |
 ## String Matching
 |  |

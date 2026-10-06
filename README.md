@@ -9,6 +9,7 @@
 | [0048-rotate-image](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0118-pascals-triangle) |
+| [0204-count-primes](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0561-array-partition) |
@@ -92,6 +93,7 @@
 | [0007-reverse-integer](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0048-rotate-image) |
 | [0172-factorial-trailing-zeroes](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0172-factorial-trailing-zeroes) |
+| [0204-count-primes](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1323-maximum-69-number) |
@@ -264,6 +266,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Euclidean Algorithm
 |  |
@@ -280,6 +283,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0204-count-primes) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Counting Sort
 |  |
@@ -310,4 +314,16 @@
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1004-max-consecutive-ones-iii) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->

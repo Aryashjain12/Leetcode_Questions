@@ -3,10 +3,9 @@ class Solution {
         Set<Integer> set = new HashSet<>();
         ArrayList<Integer> ans = new ArrayList<>();
         for(int num : nums){
-            if(set.contains(num)){
+            if(!set.add(num)){
                 ans.add(num);
             }
-            set.add(num);
         }
         return ans;
     }

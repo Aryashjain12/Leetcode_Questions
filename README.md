@@ -13,6 +13,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0561-array-partition](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0561-array-partition) |
 | [0832-flipping-an-image](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0832-flipping-an-image) |
@@ -113,6 +114,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0287-find-the-duplicate-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -120,6 +122,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0287-find-the-duplicate-number) |
 | [0832-flipping-an-image](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0832-flipping-an-image) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -146,6 +149,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0151-reverse-words-in-a-string) |
+| [0287-find-the-duplicate-number](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0287-find-the-duplicate-number) |
 | [0541-reverse-string-ii](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0832-flipping-an-image](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0832-flipping-an-image) |
@@ -336,4 +340,12 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0204-count-primes) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->

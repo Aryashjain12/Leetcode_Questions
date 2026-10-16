@@ -17,6 +17,7 @@
 | [0268-missing-number](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0561-array-partition](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0561-array-partition) |
 | [0832-flipping-an-image](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0832-flipping-an-image) |
@@ -82,6 +83,7 @@
 | [0242-valid-anagram](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0771-jewels-and-stones) |
@@ -124,6 +126,7 @@
 | [0268-missing-number](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -145,6 +148,7 @@
 | [0242-valid-anagram](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0561-array-partition](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1051-height-checker) |
@@ -162,6 +166,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0541-reverse-string-ii](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0832-flipping-an-image](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0832-flipping-an-image) |

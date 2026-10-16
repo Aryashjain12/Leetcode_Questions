@@ -78,6 +78,7 @@
 | [0001-two-sum](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -138,6 +139,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0561-array-partition](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0561-array-partition) |
@@ -174,6 +176,7 @@
 | [0038-count-and-say](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0557-reverse-words-in-a-string-iii) |

@@ -13,6 +13,7 @@
 | [0204-count-primes](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -76,6 +77,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -328,6 +330,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0219-contains-duplicate-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |

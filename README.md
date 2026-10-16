@@ -78,6 +78,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0242-valid-anagram) |
@@ -108,6 +109,7 @@
 | [0007-reverse-integer](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0048-rotate-image) |
 | [0172-factorial-trailing-zeroes](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0172-factorial-trailing-zeroes) |
+| [0202-happy-number](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -164,6 +166,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -368,6 +371,7 @@
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0287-find-the-duplicate-number) |
 ## Queue
 |  |

@@ -79,6 +79,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0242-valid-anagram) |
@@ -189,6 +190,7 @@
 | [0038-count-and-say](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0541-reverse-string-ii) |

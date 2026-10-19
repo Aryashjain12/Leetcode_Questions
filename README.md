@@ -19,6 +19,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0525-contiguous-array](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0561-array-partition) |
 | [0832-flipping-an-image](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0832-flipping-an-image) |
@@ -89,6 +90,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0525-contiguous-array](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0771-jewels-and-stones) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -355,6 +357,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1004-max-consecutive-ones-iii) |
 ## Primality Test

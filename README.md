@@ -385,4 +385,12 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0387-first-unique-character-in-a-string) |
+## Linked List
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0707-design-linked-list) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->

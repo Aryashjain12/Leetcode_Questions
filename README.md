@@ -393,6 +393,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0707-design-linked-list](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0707-design-linked-list) |
 ## Design
 |  |

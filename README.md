@@ -279,6 +279,7 @@
 | [1389-create-target-array-in-the-given-order](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1389-create-target-array-in-the-given-order) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3248-snake-in-matrix](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/3248-snake-in-matrix) |
@@ -410,6 +411,7 @@
 | [0707-design-linked-list](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Design
 |  |
 | ------- |

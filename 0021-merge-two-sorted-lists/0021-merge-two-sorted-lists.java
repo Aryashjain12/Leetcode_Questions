@@ -26,7 +26,7 @@ class Solution {
         }
         if(i==null){
             k.next= j;
-        }else if(j==null){
+        }else{
             k.next = i;
         }
         return dummy.next;

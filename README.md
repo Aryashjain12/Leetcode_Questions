@@ -441,4 +441,16 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0148-sort-list) |
+## Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0701-insert-into-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0701-insert-into-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->

@@ -305,6 +305,7 @@
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2000-reverse-prefix-of-word](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/2000-reverse-prefix-of-word) |
 ## Monotonic Stack
@@ -444,6 +445,7 @@
 ## Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
@@ -454,6 +456,11 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0701-insert-into-a-binary-search-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Aryashjain12/Leetcode_Questions/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
